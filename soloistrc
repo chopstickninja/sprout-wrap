@@ -32,8 +32,8 @@ recipes:
 - sprout-osx-apps::ccmenu
 - sprout-osx-apps::iterm2
 - sprout-osx-apps::keycastr
-- sprout-osx-apps::virtualbox
-- sprout-osx-apps::vagrant
+#- sprout-osx-apps::virtualbox
+#- sprout-osx-apps::vagrant
 
 # apps (editors)
 
